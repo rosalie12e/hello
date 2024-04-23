@@ -1,4 +1,4 @@
-module rosie/playground
+module github.com/rosalie12e/hello
 
 go 1.20
 
